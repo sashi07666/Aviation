@@ -24,7 +24,7 @@ Need to apply Excel, My SQL, Power BI and Tableau tools to implement this projec
 
 # Steps performed:
 1. Import Data.
-2. Data Cleaning, Manipulation and Imputation.
+2. Data Cleaning and Manipulation.
 3. Data Analysis using KPI's.
 4. Data Visualization and draw insights.
 5. Summary and Conclusion.
